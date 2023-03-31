@@ -1,3 +1,8 @@
 /* Your styles go here */
 @import url("bootstrap/dist/css/bootstrap.min.css");
 @import url("bootstrap-icons/font/bootstrap-icons.css");
+.jumbotron {
+    background: url(https://plus.unsplash.com/premium_photo-1675824612037-72045baa2109?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXRhaHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1600&q=60);
+    background-position: 0 -500px;
+    background-size: cover;
+}
